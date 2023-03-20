@@ -6,8 +6,17 @@ You can learn more at [www.podfeet.com/...](https://www.podfeet.com/blog/categor
 
 # How we're organized
 
-For each episode of Programming By Stealth, there will be a separate repo to collect the solutions. The repot will have the episode number followed by a few words to explain which challenge it was. e.g. pbs147-array-challenge.
+We'll use the [pbs-challenges](https://github.com/pbs-challenges/) github organization to gather learners.  Think of this organization as the _school_ where we are all learning.
 
-Each student's solution will be standalone within the repo for that episode of the podcast.  Please name your directory in this repo as follows:
+If you're interested in joining the group please request to join this github organization.
 
-pbs followed by the episode numbeer followed by your GitHub handle.  For example my directory would be called `pbs147-podfeet`
+Each member of the organization will then have access to the [pbs-challenges]() repository.  Think of the pbs-challenges repository as our common classroom.
+
+Within this repository each learner will have their own folder in which they can write their solution to the challenges.  Think of this folder as your own desk within the school.
+
+We suggest within the user's folder following naming convention of prefixing episode challeges with `pbs` and the podcast episode number.   example `pbs147-array-challenge`.
+
+Each student should confine their activity to their folder.
+
+The intention is that each learner will clone this common repository and work on their weekly challenge in their folder and then commit and push their changes back to the common repository for others to see.
+
